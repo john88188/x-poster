@@ -1,6 +1,6 @@
-# Twitter 自动发布机器人
+# x-poster
 
-这是一个自动从指定目录读取 Markdown 文件并发布到 Twitter 的机器人程序。
+一个简单而强大的 X (Twitter) 自动发布工具。
 
 ## 功能特点
 
