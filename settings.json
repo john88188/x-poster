@@ -1,0 +1,17 @@
+{
+    "schedule": {
+        "interval_minutes": 60,
+        "start_time": "09:00",
+        "end_time": "23:00",
+        "timezone": "Asia/Shanghai"
+    },
+    "content": {
+        "max_length": 280,
+        "add_timestamp": true,
+        "add_hashtags": ["#AutoPost", "#Twitter"]
+    },
+    "files": {
+        "content_dir": "xfile",
+        "history_file": "posted_history.json"
+    }
+}
